@@ -1,9 +1,0 @@
-/**
- * HelloWolrddd
- */
-public class HelloWolrddd {
-
-    public static void main(String[] args) {
-        System.out.println("Hello World!!!");
-    }
-}
