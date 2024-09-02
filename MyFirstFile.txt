@@ -1,4 +1,3 @@
-// Älskar att lära mig något nytt 
-#Java
+
 Hej!
 Detta är ett test!!
